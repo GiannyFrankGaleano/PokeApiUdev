@@ -16,6 +16,9 @@
         android:theme="@style/Theme.PokeApiUdev"
         tools:targetApi="31">
         <activity
+            android:name=".PokemonTypes"
+            android:exported="false" />
+        <activity
             android:name=".informationPokemon"
             android:exported="false" />
         <activity

@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/programas/pokeApiUdev/app/src/main/res/layout/activity_descripcion_pokemon.xml" value="0.2" />
+        <entry key="..\:/programas/pokeApiUdev/app/src/main/res/layout/activity_descripcion_pokemon.xml" value="0.22" />
         <entry key="..\:/programas/pokeApiUdev/app/src/main/res/layout/activity_information_pokemon.xml" value="0.2" />
         <entry key="..\:/programas/pokeApiUdev/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/programas/pokeApiUdev/app/src/main/res/layout/activity_pokemon_types.xml" value="0.2" />
       </map>
     </option>
   </component>

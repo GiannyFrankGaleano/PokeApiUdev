@@ -5,6 +5,7 @@ data class descripcionPokemon(
     val name: String,
     val sprites: Sprites,
     val height: Double,
-    val base_experience: Int,
-    val types: Types
+    val weight: Double
+
+
 )

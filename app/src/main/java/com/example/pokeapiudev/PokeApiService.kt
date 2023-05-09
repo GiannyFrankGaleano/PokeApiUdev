@@ -11,6 +11,8 @@ interface PokeApiService {
     @GET("pokemon/{id}")
     fun obtenerPokemon(@Path("id") id: Int): Call<descripcionPokemon>
 
+    @GET("pokemon/{types}")
+    fun obtenertypes(@Path("types") types: Types): Call<Types>
 }
 
 
